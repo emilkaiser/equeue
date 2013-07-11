@@ -4,4 +4,4 @@
 
 ## Installation
 
-    $ npm install queue
+    $ npm install equeue
